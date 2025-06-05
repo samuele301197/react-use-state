@@ -1,10 +1,10 @@
+import SelectLanguages from "./components/languages";
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
+    <SelectLanguages />
     </>
-  )
-}
+  );
+};
 
 export default App

@@ -1,0 +1,16 @@
+body{
+  font-family: sans-serif;
+}
+
+.color-block {
+  height: 200px;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+
+.container{
+  text-align: center;
+}
